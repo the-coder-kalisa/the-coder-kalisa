@@ -11,6 +11,8 @@ i started learning to code in 2021 and i have now learned many things throught t
 - 🧠  I'm now learning **ruby**
 - 🤝  I'm open to collaborating on anything.
 
+### here there is my protofolio --> [giovanni-the-coder](https://www.kalisainezagiovanni.me)
+
 ### projects
 
 some of projects I have done so far are:
