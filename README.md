@@ -1,11 +1,9 @@
 # Hi 👋 My name is KALISA INEZA Giovanni
 
-## fullstack web developer |ux/ui designer
+## software engineer
 
-i started learning to code in 2021 and i have now learned many things throught this journey.
-<br>(html,css ,js ,reactjs,vuejs,typescript,nodejs,express,nestjs,......)
 
-- 🌍  I'm based in RWANDA
+- 🌍  I'm able to freelance
 - ✉️  You can contact me at [gthecoderkalisaineza@gmail.com](mailto:gthecoderkalisaineza@gmail.com)
 - 🚀  I'm currently working on [Levitra](https://levitra.vercel.app)
 - 🧠  I'm now learning **ruby**
@@ -26,6 +24,7 @@ some of projects I have done so far are:
 - [slack-clone](https://kalisainezagiovanni.vercel.app)
 - [family-talk](https://familytalk.vercel.app)
 - [fashionista](https://coders-tan.vercel.app)
+- [ganira250](https://www.ganira250.com)
 
 ### Skills
 
@@ -34,6 +33,7 @@ here are some of languages and techs I have learnt so far:
 ## programming languages
 
 - Ruby
+- Rust
 - Dart
 - C/C++
 - C#
