@@ -17,7 +17,7 @@ some of projects I have done so far are:
 
 - [levitra](https://levitra.vercel.app)
 - [video-call](https://https://video-call-plum.vercel.app/)
-- [protofilio](https://thecoder.vercel.app)
+- [protofolio](https://thecoder.vercel.app)
 - [instagram-clone](https://instagram-eta-eight.vercel.app)
 - [siloam](https://siloam.vercel.app)
 - [tinder-clone](https://tinderclonde-zeta.vercel.app)
