@@ -15,16 +15,17 @@
 
 some of projects I have done so far are:
 
-- [levitra](https://levitra.vercel.app)
-- [video-call](https://https://video-call-plum.vercel.app/)
-- [protofolio](https://thecoder.vercel.app)
+- [ganira250](https://www.ganira250.com)
+- [levitra](https://levitra.vercel.app/landing/primarycare)
+- [video-call](https://video-call-plum.vercel.app/)
+- [protofolio](https://www.kalisainezagiovanni.me)
 - [instagram-clone](https://instagram-eta-eight.vercel.app)
 - [siloam](https://siloam.vercel.app)
 - [tinder-clone](https://tinderclonde-zeta.vercel.app)
 - [slack-clone](https://kalisainezagiovanni.vercel.app)
 - [family-talk](https://familytalk.vercel.app)
 - [fashionista](https://coders-tan.vercel.app)
-- [ganira250](https://www.ganira250.com)
+
 
 ### Skills
 
