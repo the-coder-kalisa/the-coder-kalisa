@@ -94,4 +94,4 @@ here are some of languages and techs I have learnt so far:
 
 <a href="http://www.github.com/the-coder-kalisa"><img src="https://activity-graph.herokuapp.com/graph?username=the-coder-kalisa&bg_color=0f172a&color=ffffff&line=ec4899&point=ffffff&area_color=0f172a&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
 
-<a href="https://github.com/the-coder-kalisa" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=the-coder-kalisa&langs_count=6&title_color=a855f7&text_color=ffffff&icon_color=ec4899&bg_color=0f172a&hide_border=true&locale=en&custom_title=6%20%Top%20%Languages&hide=php,html,Less,SCSS,CSS" alt="Top Languages" /></a>
+<a href="https://github.com/the-coder-kalisa" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=the-coder-kalisa&langs_count=10&title_color=a855f7&text_color=ffffff&icon_color=ec4899&bg_color=0f172a&hide_border=true&locale=en&custom_title=Top%20%10%20%Languages&hide=php,html,Less,SCSS,CSS" alt="Top Languages" /></a>
