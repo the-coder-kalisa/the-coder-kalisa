@@ -9,7 +9,7 @@
 - 🧠  I'm now learning **ruby**
 - 🤝  I'm open to collaborating on anything.
 
-### here there is my protofolio --> [giovanni-the-coder](https://www.kalisainezagiovanni.me)
+### here there is my portofolio --> [KALISA INEZA Giovanni](https://www.kalisainezagiovanni.me)
 
 ### projects
 
