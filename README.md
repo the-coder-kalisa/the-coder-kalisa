@@ -5,7 +5,7 @@
 
 - 🌍  I'm able to freelance
 - ✉️  You can contact me at [gthecoderkalisaineza@gmail.com](mailto:gthecoderkalisaineza@gmail.com)
-- 🚀  I'm currently working on [Levitra](https://levitra.vercel.app)
+- 🚀  I'm currently working on Kaukka
 - 🧠  I'm now learning **ruby**
 - 🤝  I'm open to collaborating on anything.
 
