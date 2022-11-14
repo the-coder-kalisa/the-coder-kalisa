@@ -6,7 +6,6 @@
 - 🌍  I'm able to freelance
 - ✉️  You can contact me at [gthecoderkalisaineza@gmail.com](mailto:gthecoderkalisaineza@gmail.com)
 - 🚀  I'm currently working on Kaukka
-- 🧠  I'm now learning **ruby**
 - 🤝  I'm open to collaborating on anything.
 
 ### here there is my portofolio --> [KALISA INEZA Giovanni](https://www.kalisainezagiovanni.me)
@@ -33,6 +32,7 @@ here are some of languages and techs I have learnt so far:
 
 ## programming languages
 
+- Go lang
 - Ruby
 - Rust
 - Dart
@@ -54,6 +54,7 @@ here are some of languages and techs I have learnt so far:
 - React Native
 - Electron
 - Flutter
+- Gin
 
 ## backend
 
@@ -61,6 +62,7 @@ here are some of languages and techs I have learnt so far:
 - Nestjs
 - Laravel (PHP)
 - CodeIgniter
+- Gin
 
 ## design
 
