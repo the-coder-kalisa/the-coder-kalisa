@@ -5,7 +5,6 @@
 
 - 🌍  I'm able to freelance
 - ✉️  You can contact me at [gthecoderkalisaineza@gmail.com](mailto:gthecoderkalisaineza@gmail.com)
-- 🚀  I'm currently working on Kaukka
 - 🤝  I'm open to collaborating on anything.
 
 ### here there is my portofolio --> [KALISA INEZA Giovanni](https://www.kalisainezagiovanni.me)
