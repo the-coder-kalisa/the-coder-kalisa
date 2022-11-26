@@ -3,9 +3,9 @@
 ## software engineer
 
 
-- 🌍  I'm able to freelance
+- 🌍  I'm free to freelance
 - ✉️  You can contact me at [gthecoderkalisaineza@gmail.com](mailto:gthecoderkalisaineza@gmail.com)
-- 🤝  I'm open to collaborating on anything.
+- 🤝  I'm open to collaborating anything.
 
 ### here there is my portofolio --> [KALISA INEZA Giovanni](https://www.kalisainezagiovanni.me)
 
