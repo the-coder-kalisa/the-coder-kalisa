@@ -3,7 +3,6 @@
 ## software engineer
 
 
-- 🌍  I'm free to freelance
 - ✉️  You can contact me at [gthecoderkalisaineza@gmail.com](mailto:gthecoderkalisaineza@gmail.com)
 - 🤝  I'm open to collaborating anything.
 
