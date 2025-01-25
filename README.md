@@ -1,6 +1,6 @@
 # Hi 👋 My name is KALISA INEZA Giovanni
 
-## software engineer
+## Software Engineer
 
 
 - ✉️  You can contact me at [gthecoderkalisaineza@gmail.com](mailto:gthecoderkalisaineza@gmail.com)
